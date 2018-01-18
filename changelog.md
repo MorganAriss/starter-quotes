@@ -6,3 +6,4 @@ Thursday, January 18th
  - Added changelog.md
  - Add Jack Black role and added ability to hover over actors
  - Added feature to view individual actors
+ - Added some information about the actor on their individual pages
