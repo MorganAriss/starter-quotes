@@ -4,3 +4,4 @@ Additions to be added newest last.
 
 Thursday, January 18th
  - Added changelog.md
+ - Added Jack Black image and quote
